@@ -10,6 +10,8 @@
 
 ## [Полезные утилиты](https://www.npmjs.com/package/@my-js/utils)
 
+## [Демо использования Intl API](https://intl-api-demo.netlify.app/)
+
 ## Участие
 
 Буду признателен за любой вклад в развитие проекта.

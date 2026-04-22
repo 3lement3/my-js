@@ -96,6 +96,9 @@ export default function Home() {
 
           <p className='hero__subtitle small'>
             Новинки:
+            <a href='https://intl-api-demo.netlify.app/' target='_blank'>
+              Демо использования Intl API
+            </a>
             <a href='docs/cheatsheet/testing'>
               37 советов и приемов по написанию качественных тестов для
               фронтенда
